@@ -9,4 +9,4 @@ When the game opens, you can press **Esc** to close it. Holding the **Left mouse
 ![Coming in backwards](https://raw.githubusercontent.com/george7378/lem-3d/master/_img/2.png)
 ![Landed - closeup](https://raw.githubusercontent.com/george7378/lem-3d/master/_img/3.png)
 ![Landed - distant](https://raw.githubusercontent.com/george7378/lem-3d/master/_img/4.png)
-![Landed - behind](https://raw.githubusercontent.com/george7378/lem-3d/master/_img/5.png)
+![Landed - distant](https://raw.githubusercontent.com/george7378/lem-3d/master/_img/5.png)
