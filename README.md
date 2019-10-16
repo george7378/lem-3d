@@ -1,5 +1,5 @@
 # lem-3d
-> Check out my other project, ![Perilune](https://github.com/george7378/perilune) - a much improved 3D lunar landing sim!
+> Check out my other project, [Perilune](https://github.com/george7378/perilune) - a much improved 3D lunar landing sim!
 
 LEM 3D is a demonstration of a lunar landing simulator. It's definitely not a polished, completed game but it does feature a simple physics engine which lets you pilot an Apollo Lunar Module down onto the surface of a small area of terrain.
 
